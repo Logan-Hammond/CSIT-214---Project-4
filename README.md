@@ -1,5 +1,13 @@
 # CSIT 214: C++ Programming
 ## Project 4: Airline Problem
+### Purpose
+
+Write a program to assign passenger seats in an airplane. 
+Develop a program with the following features... 
+* Arrays
+* Arrays and functions
+* User defined header files
+
 ### About
 
 Made with Microsoft Visual Studio 2017. This program was made following project guidelines; source code may not accurately represent personal knowledge, skill, style, or philosophy.
